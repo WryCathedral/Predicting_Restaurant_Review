@@ -24,3 +24,5 @@ You are supposed to
    ACCURACY)(joblib is similar to pickle)
 8. Using the new model created using joblib, predict the output of a new review
 9. Create a streamlit webapp for sentiment analysis using the joblib model (pipeline model)
+### Colab link
+https://colab.research.google.com/drive/1eVix5VKOVNdDful3gRzlxMnO3ZTwMyBd?usp=sharing
